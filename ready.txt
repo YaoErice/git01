@@ -1,3 +1,4 @@
 开心每一天
 hello
 world
+clone
